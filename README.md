@@ -7,7 +7,7 @@ With this bot, the only thing you need to do is share your message in the chat, 
 
 ## Configuration
 
-Before using it, you must make your twitter account a [developer account](https://developer.twitter.com/.
+Before using it, you must make your twitter account a [developer account](https://developer.twitter.com/).
 
 Then, you must create a src/conf/allowlist.csv, which will contain a list of telegram users that can tweet in your account (it's recommendend that you add just your user).
 
