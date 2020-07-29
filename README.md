@@ -30,7 +30,7 @@ You can get a telegram token with @BotFather. The password is used to add userna
 
 /auth __password__ - add your user to the allowlist
 
-any other message will be tweeted in your account
+any other message will be tweeted in your account (also works with fowarded messages)
 
-![](readme_image00.png)
+![](readme_image00.png=100x20)
 ![](readme_image01.png)
