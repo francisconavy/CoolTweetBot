@@ -1,4 +1,4 @@
-## Marketing
+## Motivation
 Have you ever been using Telegram, chatting with a friend, said a funny quote and thought: _"I should tweet it"_, but twitter app was too far?
 
 **Your problems are over!**
@@ -13,21 +13,24 @@ Then, you must create a src/conf/allowlist.csv, which will contain a list of tel
 
 Finally, you must create a src/conf/.env file, with these lines:
 
-'''
+```
 TELEGRAM_TOKEN =
 consumer_key = 
 consumer_secret = 
 access_token = 
 access_token_secret = 
 password = 
-'''
+```
 
 You can get a telegram token with @BotFather. The password is used to add usernames to the allowlist.
 
 ## Using It
 
 /start - Welcome message
+
 /auth __password__ - add your user to the allowlist
+
 any other message will be tweeted in your account
 
 ![](readme_image00.png)
+![](readme_image01.png)
