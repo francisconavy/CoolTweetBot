@@ -32,5 +32,5 @@ You can get a telegram token with @BotFather. The password is used to add userna
 
 any other message will be tweeted in your account (also works with fowarded messages)
 
-<img src="readme_image00.png" alt="drawing" width="200"/>
-![](readme_image01.png)
+<img src="readme_image00.png" alt="drawing" width="400"/>
+<img src="readme_image01.png" alt="drawing" width="400"/>
